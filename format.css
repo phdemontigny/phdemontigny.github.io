@@ -16,6 +16,10 @@ h1 {
 	text-align: center;
 }
 
+h2, h3 {
+    display: inline-block;
+}
+
 nav {
 	background-color: #ffffff;
 	height: 20px;
